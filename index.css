@@ -1,0 +1,21 @@
+body{
+    background-color: #e3516e;
+
+}
+.circle{
+   
+    width:0px;
+    height:0px;
+    border-radius:100%;    
+    border-style:solid;
+    border-width:200px;    
+    border-left-color:#51B5A9;
+    border-bottom-color:#F7F3D7;
+    border-left-color:#51B5A9;
+    border-right-color:transparent;
+
+    border-top-color: #FADE8B;
+     margin: 200px;
+    transform:rotate(45deg); 
+
+}
